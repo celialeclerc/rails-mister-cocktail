@@ -1,0 +1,19 @@
+// Import your components CSS files here.
+@import "alert";
+@import "navbar";
+@import "banner";
+@import "card";
+@import "btn";
+@import "form";
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  opacity: 0.6;
+  color: white;
+}
+
